@@ -10,14 +10,14 @@
 	border-radius:40px;
 }
 .green{
-	background-color:#008001;
+	background-color:rgb(2,128,0);
 	height:100px;
 	width:100px;
 	border-radius:50%;
 	text-align:center;
 }
 .red{
-	background-color:red;
+	background-color:rgb(255,1,1);
 	height:100px;
 	width:100px;
 	border-radius:50%;
